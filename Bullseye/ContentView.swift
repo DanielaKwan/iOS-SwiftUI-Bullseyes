@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Bullseye
 //
-//  Created by Andres Kwan on 9/23/19.
+//  Created by Daniela Kwan on 9/23/19.
 //  Copyright © 2019 Kwan Daniela. All rights reserved.
 //
 
